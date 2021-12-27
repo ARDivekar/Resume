@@ -2,10 +2,10 @@
 ["makeindex academicons.idx"] 0 "academicons.idx" "academicons.ind" "academicons" 0
   "academicons.idx" 0 -1 0 "pdflatex"
   (generated)
-  "academicons.ind"
   "academicons.ilg"
-["pdflatex"] 1640590732 "/Users/adivekar/workplace/Resume/academicons/academicons.tex" "/Users/adivekar/workplace/Resume/academicons/academicons.pdf" "academicons" 1640590732
-  "/Users/adivekar/workplace/Resume/academicons/academicons.aux" 1640590732 8 a94a2480d3289e625eea47cd1b285758 ""
+  "academicons.ind"
+["pdflatex"] 1640618767 "/Users/adivekar/workplace/Resume/academicons/academicons.tex" "/Users/adivekar/workplace/Resume/academicons/academicons.pdf" "academicons" 1640618767
+  "/Users/adivekar/workplace/Resume/academicons/academicons.aux" 1640618767 8 a94a2480d3289e625eea47cd1b285758 ""
   "/Users/adivekar/workplace/Resume/academicons/academicons.gls" 0 -1 0 ""
   "/Users/adivekar/workplace/Resume/academicons/academicons.tex" 1637893162 6618 16915d1295de6971ba8cf9241cb33c85 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -95,12 +95,12 @@
   "academicons.sty" 1637893130 17500 12a9ce71596382259ad1f05439cf7e45 ""
   "academicons.tex" 1637893162 6618 16915d1295de6971ba8cf9241cb33c85 ""
   (generated)
-  "/Users/adivekar/workplace/Resume/academicons/academicons.log"
-  "academicons.log"
-  "academicons.out"
-  "/Users/adivekar/workplace/Resume/academicons/academicons.pdf"
+  "academicons.idx"
   "academicons.glo"
   "academicons.aux"
-  "academicons.pdf"
-  "academicons.idx"
+  "/Users/adivekar/workplace/Resume/academicons/academicons.log"
+  "academicons.log"
   "academicons.hd"
+  "/Users/adivekar/workplace/Resume/academicons/academicons.pdf"
+  "academicons.out"
+  "academicons.pdf"

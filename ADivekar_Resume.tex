@@ -51,19 +51,41 @@
 \documentclass[]{deedy-resume-openfont}
 
 \usepackage{xcolor}
-\defaultfontfeatures{Path = fontawesome/opentype/, academicons/} %% Ref: https://tex.stackexchange.com/a/132893
-\usepackage{fontawesome}  %% Ref: https://tex.stackexchange.com/a/190931
+\usepackage{xstring}
+\defaultfontfeatures{Path = fontawesome5/opentype/} %% Ref: https://tex.stackexchange.com/a/132893
+% \usepackage{fontawesome}  %% Ref: https://tex.stackexchange.com/a/190931
+\usepackage{fontawesome5}  %% Ref: https://latexdraw.com/fontawesome-ready-icons-to-use-in-latex/
 \usepackage{academicons} %% Ref: https://jpswalsh.github.io/academicons/
 \usepackage{setspace}
+\usepackage{amsmath}
+
+%% Ref: https://tex.stackexchange.com/a/573715
+\tolerance=9999
+\emergencystretch=10pt
+\hyphenpenalty=10000
+\exhyphenpenalty=100
 
 \begin{document}
+
+\newcommand{\faExperience}{\faIcon[regular]{briefcase}}
+\newcommand{\faAmazonLogo}{\faIcon[regular]{amazon}}
+\newcommand{\faEducation}{\faIcon[regular]{graduation-cap}}
+\newcommand{\faPublications}{\faIcon[regular]{file-contract}}
+\newcommand{\faSkills}{\faIcon[regular]{tools}}
+\newcommand{\faProjects}{\faIcon{laptop-code}}
+\newcommand{\faTalks}{\faIcon{chalkboard-teacher}}
+\newcommand{\faHonors}{\faIcon{award}}
+\newcommand{\faEmail}{\faIcon{envelope}}
+\newcommand{\faMobilePhone}{\faIcon{mobile-alt}}
+\newcommand{\faLinkedIn}{\faIcon{linkedin}}
+\newcommand{\faGoogleScholar}{\aiGoogleScholar}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+% \lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -71,94 +93,199 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\namesection{Abhishek (Adam)}{Divekar}{ % Your name
-\href{mailto:adivekar@utexas.edu}{adivekar@utexas.edu} \quad >> \quad \href{https://www.linkedin.com/in/ardivekar}{LinkedIn \faLinkedinSquare} \quad >> \quad \faMobile { } (+91) 9819712190 % Your contact information
+
+\namesection{Abhishek (Adam)}{Divekar}{
+    \href{mailto:adivekar@utexas.edu}{\faEmail {} adivekar@utexas.edu} 
+    \quad \textbullet{} \quad 
+    \href{https://scholar.google.com/citations?user=1Sf2oM4AAAAJ&hl=en&oi=sra}{\faGoogleScholar {} Google Scholar}
+    \quad \textbullet{} \quad
+    \href{https://www.linkedin.com/in/ardivekar}{\faLinkedIn {} LinkedIn}
+    \quad \textbullet{} \quad
+    \faMobilePhone {} (+91) 9819712190 
 }
 
-\begin{center}
-\huge\color{subheadings}\custombold{LIFELONG LEARNER}
-\end{center}
+% \begin{center}
+% \huge\color{subheadings}\custombold{Professional student}
+% \end{center}
 
-\section{Experience}
+\runsection{\faExperience}{Experience}
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{Expected June 2014 – Sep 2014 | Mountain View, CA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\runsubsection{Amazon Science}
+\descript{Machine Learning Scientist-II}
+\runsingleline{(2020 - Present, India)}
 \begin{tightemize}
-\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
+    \item Owned scientific experimentation for AutoML platform ``Entity Prediction Service''. Developed ML framework ``DRiP'' to iteratively maximize AutoML performance while restricted by a user-defined cost budget. Paper accepted at Amazon ML Conference 2021 (33\% acceptance-rate).
+    \item Devised unsupervised function ``GROK'' to rank the quality of text augmented by Backtranslation and Abstractive-Summarization models (BART, T5, PEGASUS). On product-classification tasks, GROK-based augmentation requires $\sim$70\% fewer augmented samples to achieve performance of Beam-Search and rule-based approaches.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Amazon Science}
+\descript{Machine Learning Scientist-I}
+\runsingleline{(2019 - 2020, India)}
 \begin{tightemize}
-\item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.
-\item Created a backbone.js-like framework for the Captions editor.
-\item All code was reviewed, perfected, and pushed to production.
+    \item Fine-tuned and deployed AmaBERT (BERT pretrained on Amazon product text) to classify products across 10,000+ browsable categories. Fixed categorization of $\sim$8.5 MM Amazon.in products, improving categorization precision from 62\% to 90\%. Built automatic model re-training workflow using Apache Spark and HuggingFace. 
+    \item Developed low-latency FastText Docker containers to predict UNSPSC codes. Predicted $\sim$500 MM products on Amazon.com at 95\% precision \& 95\% recall.
+    % \item Designed and implemented data-processing workflow-steps for AutoML platform ``Entity Prediction Service''. Contributed $\sim$160K lines of production-grade code.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{Amazon}
+\descript{Software Development Engineer-I} \runsingleline{(2017 - 2019, India)}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator, the entire Lipsum application, ported Tokens to different apps, fixed many bugs and more in PHP and Shell.
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+    \item Built purchase-authentication used by all Kindle devices in Europe. Launched secure Kindle-to-mobile \mbox{MultiFactor} authentication using SMS \& Email notifications, CSRF tokens and server-side caching.
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\runsubsection{VJTI, Mumbai}
+\descript{Research Assistant, Dr. Mahesh Shirole's lab} \runsingleline{(Apr - Jun 2017, India)}
+\begin{tightemize}
+    \item Introduced a new dataset for improved detection of underrepresented network-attack classes using Machine Learning. \mbox{Paper} accepted for Oral Presentation at IEEE ICCCS 2018 conference.
+\end{tightemize}
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Head Undergrad Research}
-\location{Jan 2014 – Present | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  Publication submitted.
+\runsection{\faEducation}{Education}
+
+\runsubsection{The University of Texas at Austin}
+\descript{Master of Science in Computer Science (Option-III)} \\
+\runsingleline{2020 - 2022 (Expected) \textbullet{} GPA: 4.0} \\
+Graduate Coursework:
+\begin{tightemize}
+    \item Natural Language Processing (CS388): A grade (112\%)
+    \item Machine Learning (CS391L): A grade (93\%)
+    \item Deep Learning (CS394D): A grade (105\%)
+    \item Advanced Linear Algebra for Computing (CS383C): A grade (97\%)
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Lead the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. Publication submitted.
-\sectionsep
+\runsubsection{VJTI, Mumbai}
+\descript{Bachelor of Technology in Information Technology} \\
+\runsingleline{2013 - 2017 \textbullet{} GPA: 8.74 (out of 10)} \\
+Thesis: Machine Learning for Anomaly-based Network Intrusion Detection, advised by Dr. Mahesh Shirole.
 
-\section{Education}
-\runsubsection{Cornell University}
-\descript{| MEng in Computer Science}
-\location{Expected Dec 2014 | Ithaca, NY \textbullet{} Cum. GPA: N/A}
-\sectionsep
+\runsection{\faPublications}{Publications}
+\runsubsection{Conferences} 
+\begin{tightemize}
+    \item \publication{\underline{Abhishek Divekar}, Mudit Agarwal and Nikhil Rasiwasia}{2021}{Unsupervised text augmentation using Pretrained Paraphrase  Generation}{(Preprint)}{}
+    \item \publication{\underline{Abhishek Divekar}*, Gaurav Manchanda*, Prit Raj, Abhishek Das, Karan Tanwar, Akshay Jagatap, Vinayak Puranik, Jagannathan Srinivasan, Ramakrishna Nalam and Nikhil Rasiwasia}{2021}{Squeezing the last DRiP: AutoML for cost-constrained Product classification}{Proceedings of the 9th Annual conference of Amazon Machine Learning (AMLC). Conference acceptance-rate: 33\% ($\sim$750 submissions)}{}
+    \item \publication{\underline{Abhishek Divekar}, Meet Parekh, Vaibhav Savla, Rudra Mishra and Mahesh Shirole}{2018, Oral Presentation}{Benchmarking datasets for Anomaly-based Network Intrusion Detection: KDD CUP 99 alternatives}{Proceedings of the 3rd IEEE International Conference on Computer and Communication Systems (IEEE ICCCS)}{}
+\end{tightemize}
 
-\runsubsection{Cornell University}
-\descript{| BS in Computer Science}
-\location{Conc. in Software Engineering,
-College of Engineering | Expected May 2014 | Ithaca, NY}
-Dean's List (All Semesters) \textbullet{}
-Cum. GPA: 3.92 / 4.0 \textbullet{}
-Major GPA: 3.94 / 4.0
-\sectionsep
+\pagebreak
+\runsubsection{Workshops}
+\begin{tightemize}
+    \item \publication{\underline{Abhishek Divekar}, Vinayak Puranik, Zhenyu Shi, Jinmiao Fu and Nikhil Rasiwasia}{2021, Oral Presentation}{LEAP: LEAf node Predictions in the wild}{2nd Amazon Selection and Catalog Services Applied Science Workshop}{}
+    \item \publication{Gaurav Manchanda*, \underline{Abhishek Divekar}*, Prit Raj, Akshay Jagatap, Vinayak Puranik, Jagannathan Srinivasan, Ramakrishna Nalam and Nikhil Rasiwasia}{2020}{Entity Prediction Service: a configurable, end-to-end AutoML system for Product Classification}{Workshop on Automated Machine Learning, Amazon Machine Learning Conference 2020}{}
+    \item \publication{Andrew Borthwick, \underline{Abhishek Divekar}, Nick Erickson, Fayaz Ahmed Farooque, Oleg Kim, Nikhil Rasiwasia, Ethan Xu}{2021, Oral Presentation}{CPP MultiModal AutoML Corpus and Benchmark}{Workshop on MultiModal Learning and Fusion, Amazon Machine Learning Conference 2021}{}
+\end{tightemize}
 
-\section{Languages}
-\begin{minipage}[t]{.6\textwidth}
-\subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} JavaScript \textbullet{} Matlab \textbullet{}
-OCaml \textbullet{} Python \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
-\sectionsep
+\runsection{\faTalks}{Invited talks}
+\subsectionsep
+\begin{tightemize}
+    \item Presented work on DRiP AutoML framework at Amazon Research Days 2021 conference.
+\end{tightemize}
+
+\runsection{\faHonors}{Honors and Awards}
+
+\runsubsubsection{First place, Amazon Chennai ML Challenge, 2017}{}
+\begin{tightemize}
+    \item Kaggle-style competition with $\sim$300 participants. Task was to predict cancellation of KindleUnlimited subscriptions from user purchase \& reading history. Transformed time-series problem into classification, thereby increasing dataset from 150k to 3.5 MM samples. Trained RandomForest to predict cancellations with 89.7\% F-1.
+\end{tightemize}
+
+\runsection{\faSkills}{Skills}
+
+\begin{minipage}[t]{.315\textwidth}
+    \runsubsection{Languages} \\
+    \runsubsubsection{Proficient}{100K+ lines in production}
+    Python 
+    \enspace \textbullet \enspace 
+    Java 
+    \subsectionsep
+    \\
+    \runsubsubsection{Familiar}{Used in work projects}
+    Spark SQL
+    \enspace \textbullet \enspace 
+    C++
+    \enspace \textbullet \enspace 
+    JavaScript \\  
+    HTML \& CSS \\
+\end{minipage} \hfill 
+\begin{minipage}[t]{.335\textwidth}
+    \runsubsection{Tools}
+    \\
+    \runsubsubsection{Data Science}{}
+    PyTorch 
+    \enspace \textbullet \enspace 
+    NumPy
+    \enspace \textbullet \enspace 
+    Pandas \\
+    Apache Spark
+    \enspace \textbullet \enspace 
+    Dask
+    \enspace \textbullet \enspace  
+    HuggingFace
+    \subsectionsep
+    \\
+    \runsubsubsection{Software Development \& MLOps}{}
+    Git
+    \enspace \textbullet \enspace 
+    Docker 
+    \enspace \textbullet \enspace 
+    CICD 
+    \enspace \textbullet \enspace 
+    Streamlit
+    \subsectionsep
+    \\
+    \runsubsubsection{Amazon Web Services (AWS)}{}
+    SageMaker
+    \enspace \textbullet \enspace 
+    Lambda 
+    \enspace \textbullet \enspace 
+    DynamoDB \\
+    Step Functions
+    \enspace \textbullet \enspace 
+    Elastic Map Reduce \\  
+\end{minipage} \hfill 
+\begin{minipage}[t]{.325\textwidth}
+    \runsubsection{Computer Science}
+    \\
+    \runsubsubsection{Machine Learning}{}
+    Deep Learning \\
+    Natural Language Processing \\
+    Automated Machine Learning (AutoML) \\
+    Computer Vision
+    \subsectionsep
+    \\
+    \runsubsubsection{Math}{}
+    Probability \& Statistics \\
+    Linear Algebra \\
+    Multivariate calculus \\
 \end{minipage}
-\hfill
-\begin{minipage}[t]{.35\textwidth}
-\subsection{Spoken \& Written}
-\location{Native fluency:} English, Spanish\\
-\location{Reading fluency:} Chinese, Japanese\\
-\end{minipage}
+
+\runsection{\faProjects}{Projects}
+
+\runsubsubsection{Asking the Right Questions: Question Paraphrasing Using Cross-Domain Abstractive-Summarization and Backtranslation}{Contributors: \underline{Abhishek Divekar}, Alex Stoken}
+
+\subsubsectionsep
+Final project for graduate course CS388 (Natural Language Processing) at UT Austin.
+\begin{tightemize}
+    \item Used Abstractive-Summarization model PEGASUS for data augmentation in Question-Answering. Compared results to Backtranslation augmentation (Fairseq EN$\leftrightarrow$DE WMT'19 News), on NewsQA (in-domain) \& BioASQ (cross-domain).
+    \item Trained Bi-LSTM with aligned attention, using 300-dimensional GloVE embeddings. Used PyTorch.
+\end{tightemize}
+\sectionsep
+
+\runsubsubsection{Autonomous agents for realtime multiplayer ice-hockey}{Contributors: \underline{Abhishek Divekar}, Jason Housman, Ankita Sinha, Alex Stoken}
+Final project for graduate course CS394D (Deep Learning) at UT Austin.
+\begin{tightemize}
+    \item Built autonomous agent to play ice-hockey using image signal from SuperTuxKart videogame (similar to MarioKart). 
+    \item Trained multi-headed CenterNet model (with U-Net backend), to predict whether hockey puck was on-screen (classification), puck's x-y coordinates (aimpoint regression) and distance from player (regression). Model made predictions in realtime \mbox{(avg. 18ms} on NVIDIA Tesla V100 GPU for 400$\times$300 images).
+    \item Model predictions used by agent-code to either search and ``dribble'' puck towards goal, or defend against opposite team.
+\end{tightemize}
+\sectionsep
+
+\runsubsubsection{SearchDistribute: an economical Google Search API}{Sole contributor}
+
+\begin{tightemize}
+    \item Tool to gather datasets of search results from Google, Bing, etc. Able to retrieve $\sim$250K results/day at \$5/month in VPN costs (120x savings compared to Google Search API).
+    \item Built using Python and Selenium to coordinate multiple PhantomJS browser instances, each connected to a VPN proxy.
+\end{tightemize}
 
 \end{document}  \documentclass[]{article}
