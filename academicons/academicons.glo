@@ -1,0 +1,15 @@
+\glossaryentry{v1.9.1> =General:>Release of v1.9.1.|hdpindex{}}{1}
+\glossaryentry{v1.9.0> =General:>Release of v1.9.0.|hdpindex{}}{1}
+\glossaryentry{v1.8.6-2> =General:>Fixed bugs in a few icon commands.|hdpindex{}}{1}
+\glossaryentry{v1.8.6-1> =General:>Removed \texttt  {fontspec} dependency.|hdpindex{}}{1}
+\glossaryentry{v1.8.6> =General:>Release of v1.8.6.|hdpindex{}}{1}
+\glossaryentry{v1.8.3> =General:>Release of v1.8.3.|hdpindex{}}{1}
+\glossaryentry{v1.8.0-1> =General:>Enhancement release: adjusted \texttt  {\textbackslash {}newfontfamily} to account for the font installed via \texttt  {tlmgr}.|hdpindex{}}{1}
+\glossaryentry{v1.8.0> =General:>Major release of v1.8.0.|hdpindex{}}{1}
+\glossaryentry{v1.7.2> =General:>Fix release: corrected a bug in the style file.|hdpindex{}}{1}
+\glossaryentry{v1.7.1> =General:>Fix release: corrected a bug in the style file.|hdpindex{}}{1}
+\glossaryentry{v1.7.0> =General:>Major release of v1.7.0.|hdpindex{}}{1}
+\glossaryentry{v1.6.0-1> =General:>Better documentation.|hdpindex{}}{1}
+\glossaryentry{v1.6.0> =General:>Major release of v1.6.0.|hdpindex{}}{1}
+\glossaryentry{v1.4.0-1> =General:>Fix release: corrected a few typos and errors in the manual.|hdpindex{}}{1}
+\glossaryentry{v1.4.0> =General:>First public release (version number set to match the included \texttt  {academicons.ttf} font version).|hdpindex{}}{1}

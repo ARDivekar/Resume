@@ -1,0 +1,3019 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.5)  27 DEC 2021 13:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/adivekar/workplace/Resume/academicons/academicons.tex
+(/Users/adivekar/workplace/Resume/academicons/academicons.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ltxdoc.cls
+Document Class: ltxdoc 2018/03/15 v2.0x Standard LaTeX documentation class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/doc.sty
+Package: doc 2018/09/25 v2.1i Standard LaTeX documentation package (FMi)
+\c@StandardModuleDepth=\count88
+\guard@level=\count89
+\MacrocodeTopsep=\skip43
+\MacroIndent=\dimen103
+\macro@cnt=\count90
+\MacroTopsep=\skip44
+\index@excludelist=\toks14
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box27
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen109
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen110
+\multicolovershoot=\dimen111
+\multicolundershoot=\dimen112
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count99
+)
+\IndexMin=\dimen113
+\c@IndexColumns=\count100
+\GlossaryMin=\dimen114
+\c@GlossaryColumns=\count101
+\check@sum=\count102
+\bslash@cnt=\count103
+\wrong@table=\toks15
+\c@CodelineNo=\count104
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/hypdoc.sty
+Package: hypdoc 2018/09/07 v1.14 Hyper extensions for doc.sty (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package hobsub Info: Skipping package `atveryend' (already loaded).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen115
+\Hy@linkcounter=\count105
+\Hy@pagecounter=\count106
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count107
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `hyperindex' set `false' on input line 4393.
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4393.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index OFF on input line 4529.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count108
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count109
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index OFF on input line 6390.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count110
+\c@Item=\count111
+\c@Hfootnote=\count112
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count113
+\c@bookmark@seq@number=\count114
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip47
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 60.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 60.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 60.
+\c@HD@unique=\count115
+\c@HD@hypercount=\count116
+\HD@helplength=\skip48
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hologo.sty
+Package: hologo 2017/05/01 v1.13 A logo collection with bookmark support (HO)
+Package hologo Info: Using driver `pdftex'.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count117
+\LTcapwidth=\dimen119
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@cols=\count118
+\LT@rows=\count119
+\c@LT@tables=\count120
+\c@LT@chunks=\count121
+\LT@p@ftn=\toks17
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count122
+\@cmidlb=\count123
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count124
+\@lastruleclass=\count125
+\@thisrulewidth=\dimen132
+) (/Users/adivekar/workplace/Resume/academicons/./academicons.sty
+
+LaTeX Warning: You have requested package `./academicons',
+               but the package provides `academicons'.
+
+Package: academicons 2021/11/26 v1.9.1 Academicons Icons
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 17.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/totcount/totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX counters
+)
+\c@IconsCounter=\count126
+\c@IconsCounter@totc=\count127
+\@indexfile=\write3
+\openout3 = `academicons.idx'.
+
+
+Writing index file academicons.idx
+\@glossaryfile=\write4
+\openout4 = `academicons.glo'.
+
+Writing glossary file academicons.glo 
+(/Users/adivekar/workplace/Resume/academicons/academicons.aux)
+\openout1 = `academicons.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+Package doc Info: Made | a short reference for \verb on input line 43.
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring ON on input line 43.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+\@outlinefile=\write5
+\openout5 = `academicons.out'.
+
+ (/Users/adivekar/workplace/Resume/academicons/academicons.hd)
+\HD@savedest@out=\write6
+\openout6 = `academicons.hd'.
+
+ (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen133
+\scratchbox=\box58
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen134
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks19
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 53.
+
+
+Package totcount Warning: Rerun to get correct total counts on input line 53.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 59.
+
+Package totcount Warning: Rerun to get correct total counts on input line 59.
+
+LaTeX Font Info:    Font shape `OMS/cmtt/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:96: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96   \icon{academia}{aiAcademia}
+                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for OT1+academicons on input line 96.
+LaTeX Font Info:    No file OT1academicons.fd. on input line 96.
+
+LaTeX Font Warning: Font shape `OT1/academicons/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 96.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:96: Bad character code (59823).
+<to be read again> 
+                   \relax 
+l.96   \icon{academia}{aiAcademia}
+                                  
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:96: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96   \icon{academia}{aiAcademia}
+                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:96: Bad character code (59709).
+<to be read again> 
+                   \relax 
+l.96   \icon{academia}{aiAcademia}
+                                  
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:97: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97   \icon{acclaim}{aiAcclaim}
+                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:97: Bad character code (59694).
+<to be read again> 
+                   \relax 
+l.97   \icon{acclaim}{aiAcclaim}
+                                
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:97: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97   \icon{acclaim}{aiAcclaim}
+                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:97: Bad character code (59706).
+<to be read again> 
+                   \relax 
+l.97   \icon{acclaim}{aiAcclaim}
+                                
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:98: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98   \icon{acm}{aiACM}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:98: Bad character code (59708).
+<to be read again> 
+                   \relax 
+l.98   \icon{acm}{aiACM}
+                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:98: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98   \icon{acm}{aiACM}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:98: Bad character code (59741).
+<to be read again> 
+                   \relax 
+l.98   \icon{acm}{aiACM}
+                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:99: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99   \icon{acmdl}{aiACMDL}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:99: Bad character code (59754).
+<to be read again> 
+                   \relax 
+l.99   \icon{acmdl}{aiACMDL}
+                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:99: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99   \icon{acmdl}{aiACMDL}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:99: Bad character code (59859).
+<to be read again> 
+                   \relax 
+l.99   \icon{acmdl}{aiACMDL}
+                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:100: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \icon{ads}{aiADS}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:100: Bad character code (59851).
+<to be read again> 
+                   \relax 
+l.100   \icon{ads}{aiADS}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:100: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100   \icon{ads}{aiADS}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:100: Bad character code (59722).
+<to be read again> 
+                   \relax 
+l.100   \icon{ads}{aiADS}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:101: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101   \icon{africarxiv}{aiAfricArXiv}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:101: Bad character code (59675).
+<to be read again> 
+                   \relax 
+l.101   \icon{africarxiv}{aiAfricArXiv}
+                                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:101: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101   \icon{africarxiv}{aiAfricArXiv}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:101: Bad character code (59659).
+<to be read again> 
+                   \relax 
+l.101   \icon{africarxiv}{aiAfricArXiv}
+                                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:102: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102   \icon{arxiv}{aiarXiv}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:102: Bad character code (59764).
+<to be read again> 
+                   \relax 
+l.102   \icon{arxiv}{aiarXiv}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:102: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102   \icon{arxiv}{aiarXiv}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:102: Bad character code (59814).
+<to be read again> 
+                   \relax 
+l.102   \icon{arxiv}{aiarXiv}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:103: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103   \icon{biorxiv}{aibioRxiv}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:103: Bad character code (59810).
+<to be read again> 
+                   \relax 
+l.103   \icon{biorxiv}{aibioRxiv}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:103: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103   \icon{biorxiv}{aibioRxiv}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:103: Bad character code (59787).
+<to be read again> 
+                   \relax 
+l.103   \icon{biorxiv}{aibioRxiv}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:104: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104   \icon{ceur}{aiCEUR}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:104: Bad character code (59757).
+<to be read again> 
+                   \relax 
+l.104   \icon{ceur}{aiCEUR}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:104: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104   \icon{ceur}{aiCEUR}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:104: Bad character code (59695).
+<to be read again> 
+                   \relax 
+l.104   \icon{ceur}{aiCEUR}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:105: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105   \icon{ciencia-vitae}{aiCIENCIAVITAE}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:105: Bad character code (59666).
+<to be read again> 
+                   \relax 
+l.105   \icon{ciencia-vitae}{aiCIENCIAVITAE}
+                                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:105: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105   \icon{ciencia-vitae}{aiCIENCIAVITAE}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:105: Bad character code (59667).
+<to be read again> 
+                   \relax 
+l.105   \icon{ciencia-vitae}{aiCIENCIAVITAE}
+                                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:106: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106   \icon{conversation}{aiConversation}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:106: Bad character code (59724).
+<to be read again> 
+                   \relax 
+l.106   \icon{conversation}{aiConversation}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:106: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106   \icon{conversation}{aiConversation}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:106: Bad character code (59669).
+<to be read again> 
+                   \relax 
+l.106   \icon{conversation}{aiConversation}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:107: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107   \icon{coursera}{aiCoursera}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:107: Bad character code (59743).
+<to be read again> 
+                   \relax 
+l.107   \icon{coursera}{aiCoursera}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:107: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107   \icon{coursera}{aiCoursera}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:107: Bad character code (59775).
+<to be read again> 
+                   \relax 
+l.107   \icon{coursera}{aiCoursera}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:108: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108   \icon{crossref}{aiCrossref}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:108: Bad character code (59672).
+<to be read again> 
+                   \relax 
+l.108   \icon{crossref}{aiCrossref}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:108: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108   \icon{crossref}{aiCrossref}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:108: Bad character code (59673).
+<to be read again> 
+                   \relax 
+l.108   \icon{crossref}{aiCrossref}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:109: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109   \icon{cv}{aiCV}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:109: Bad character code (59813).
+<to be read again> 
+                   \relax 
+l.109   \icon{cv}{aiCV}
+                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:109: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109   \icon{cv}{aiCV}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:109: Bad character code (59658).
+<to be read again> 
+                   \relax 
+l.109   \icon{cv}{aiCV}
+                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:110: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110   \icon{datacite}{aiDataCite}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:110: Bad character code (59676).
+<to be read again> 
+                   \relax 
+l.110   \icon{datacite}{aiDataCite}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:110: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110   \icon{datacite}{aiDataCite}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:110: Bad character code (59677).
+<to be read again> 
+                   \relax 
+l.110   \icon{datacite}{aiDataCite}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:111: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111   \icon{dataverse}{aiDataverse}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:111: Bad character code (59895).
+<to be read again> 
+                   \relax 
+l.111   \icon{dataverse}{aiDataverse}
+                                     
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:111: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111   \icon{dataverse}{aiDataverse}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:111: Bad character code (59876).
+<to be read again> 
+                   \relax 
+l.111   \icon{dataverse}{aiDataverse}
+                                     
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:112: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112   \icon{dblp}{aidblp}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:112: Bad character code (59727).
+<to be read again> 
+                   \relax 
+l.112   \icon{dblp}{aidblp}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:112: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112   \icon{dblp}{aidblp}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:112: Bad character code (59711).
+<to be read again> 
+                   \relax 
+l.112   \icon{dblp}{aidblp}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:113: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113   \icon{depsy}{aiDepsy}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:113: Bad character code (59770).
+<to be read again> 
+                   \relax 
+l.113   \icon{depsy}{aiDepsy}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:113: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113   \icon{depsy}{aiDepsy}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:113: Bad character code (59723).
+<to be read again> 
+                   \relax 
+l.113   \icon{depsy}{aiDepsy}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:114: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114   \icon{doi}{aiDoi}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:114: Bad character code (59774).
+<to be read again> 
+                   \relax 
+l.114   \icon{doi}{aiDoi}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:114: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114   \icon{doi}{aiDoi}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:114: Bad character code (59791).
+<to be read again> 
+                   \relax 
+l.114   \icon{doi}{aiDoi}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:115: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115   \icon{dryad}{aiDryad}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:115: Bad character code (59772).
+<to be read again> 
+                   \relax 
+l.115   \icon{dryad}{aiDryad}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:115: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115   \icon{dryad}{aiDryad}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:115: Bad character code (59788).
+<to be read again> 
+                   \relax 
+l.115   \icon{dryad}{aiDryad}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:116: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116   \icon{elsevier}{aiElsevier}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:116: Bad character code (59745).
+<to be read again> 
+                   \relax 
+l.116   \icon{elsevier}{aiElsevier}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:116: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116   \icon{elsevier}{aiElsevier}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:116: Bad character code (59664).
+<to be read again> 
+                   \relax 
+l.116   \icon{elsevier}{aiElsevier}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:117: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117   \icon{ideas-repec}{aiIDEASRePEc}
+                                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:117: Bad character code (59885).
+<to be read again> 
+                   \relax 
+l.117   \icon{ideas-repec}{aiIDEASRePEc}
+                                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:117: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117   \icon{ideas-repec}{aiIDEASRePEc}
+                                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:117: Bad character code (59896).
+<to be read again> 
+                   \relax 
+l.117   \icon{ideas-repec}{aiIDEASRePEc}
+                                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:118: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118   \icon{figshare}{aiFigshare}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:118: Bad character code (59777).
+<to be read again> 
+                   \relax 
+l.118   \icon{figshare}{aiFigshare}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:118: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118   \icon{figshare}{aiFigshare}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:118: Bad character code (59879).
+<to be read again> 
+                   \relax 
+l.118   \icon{figshare}{aiFigshare}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:119: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119   \icon{googlescholar}{aiGoogleScholar}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:119: Bad character code (59860).
+<to be read again> 
+                   \relax 
+l.119   \icon{googlescholar}{aiGoogleScholar}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:119: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119   \icon{googlescholar}{aiGoogleScholar}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:119: Bad character code (59897).
+<to be read again> 
+                   \relax 
+l.119   \icon{googlescholar}{aiGoogleScholar}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:120: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120   \icon{hal}{aiHAL}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:120: Bad character code (59692).
+<to be read again> 
+                   \relax 
+l.120   \icon{hal}{aiHAL}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:120: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120   \icon{hal}{aiHAL}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:120: Bad character code (59693).
+<to be read again> 
+                   \relax 
+l.120   \icon{hal}{aiHAL}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:121: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121   \icon{ieee}{aiIEEE}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:121: Bad character code (59689).
+<to be read again> 
+                   \relax 
+l.121   \icon{ieee}{aiIEEE}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:121: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121   \icon{ieee}{aiIEEE}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:121: Bad character code (59833).
+<to be read again> 
+                   \relax 
+l.121   \icon{ieee}{aiIEEE}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:122: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122   \icon{impactstory}{aiImpactstory}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:122: Bad character code (59855).
+<to be read again> 
+                   \relax 
+l.122   \icon{impactstory}{aiImpactstory}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:122: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122   \icon{impactstory}{aiImpactstory}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:122: Bad character code (59818).
+<to be read again> 
+                   \relax 
+l.122   \icon{impactstory}{aiImpactstory}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:123: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123   \icon{inaturalist}{aiiNaturalist}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:123: Bad character code (59648).
+<to be read again> 
+                   \relax 
+l.123   \icon{inaturalist}{aiiNaturalist}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:123: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123   \icon{inaturalist}{aiiNaturalist}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:123: Bad character code (59649).
+<to be read again> 
+                   \relax 
+l.123   \icon{inaturalist}{aiiNaturalist}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:124: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124   \icon{inpn}{aiINPN}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:124: Bad character code (59650).
+<to be read again> 
+                   \relax 
+l.124   \icon{inpn}{aiINPN}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:124: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124   \icon{inpn}{aiINPN}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:124: Bad character code (59651).
+<to be read again> 
+                   \relax 
+l.124   \icon{inpn}{aiINPN}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:125: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125   \icon{inspire}{aiInspire}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:125: Bad character code (59881).
+<to be read again> 
+                   \relax 
+l.125   \icon{inspire}{aiInspire}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:125: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125   \icon{inspire}{aiInspire}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:125: Bad character code (59902).
+<to be read again> 
+                   \relax 
+l.125   \icon{inspire}{aiInspire}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:126: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126   \icon{isidore}{aiISIDORE}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:126: Bad character code (59702).
+<to be read again> 
+                   \relax 
+l.126   \icon{isidore}{aiISIDORE}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:126: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126   \icon{isidore}{aiISIDORE}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:126: Bad character code (59732).
+<to be read again> 
+                   \relax 
+l.126   \icon{isidore}{aiISIDORE}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:127: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127   \icon{jstor}{aiJSTOR}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:127: Bad character code (59704).
+<to be read again> 
+                   \relax 
+l.127   \icon{jstor}{aiJSTOR}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:127: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127   \icon{jstor}{aiJSTOR}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:127: Bad character code (59716).
+<to be read again> 
+                   \relax 
+l.127   \icon{jstor}{aiJSTOR}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:128: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128   \icon{lattes}{aiLattes}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:128: Bad character code (59827).
+<to be read again> 
+                   \relax 
+l.128   \icon{lattes}{aiLattes}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:128: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128   \icon{lattes}{aiLattes}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:128: Bad character code (59804).
+<to be read again> 
+                   \relax 
+l.128   \icon{lattes}{aiLattes}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:129: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \icon{mathoverflow}{aiMathOverflow}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:129: Bad character code (59894).
+<to be read again> 
+                   \relax 
+l.129   \icon{mathoverflow}{aiMathOverflow}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:129: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129   \icon{mathoverflow}{aiMathOverflow}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:129: Bad character code (59771).
+<to be read again> 
+                   \relax 
+l.129   \icon{mathoverflow}{aiMathOverflow}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:130: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130   \icon{mendeley}{aiMendeley}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:130: Bad character code (59888).
+<to be read again> 
+                   \relax 
+l.130   \icon{mendeley}{aiMendeley}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:130: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130   \icon{mendeley}{aiMendeley}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:130: Bad character code (59891).
+<to be read again> 
+                   \relax 
+l.130   \icon{mendeley}{aiMendeley}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:131: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131   \icon{moodle}{aiMoodle}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:131: Bad character code (59655).
+<to be read again> 
+                   \relax 
+l.131   \icon{moodle}{aiMoodle}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:131: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131   \icon{moodle}{aiMoodle}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:131: Bad character code (59656).
+<to be read again> 
+                   \relax 
+l.131   \icon{moodle}{aiMoodle}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:132: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132   \icon{mtmt}{aiMTMT}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:132: Bad character code (59728).
+<to be read again> 
+                   \relax 
+l.132   \icon{mtmt}{aiMTMT}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:132: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132   \icon{mtmt}{aiMTMT}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:132: Bad character code (59729).
+<to be read again> 
+                   \relax 
+l.132   \icon{mtmt}{aiMTMT}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:133: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133   \icon{nakala}{aiNAKALA}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:133: Bad character code (59712).
+<to be read again> 
+                   \relax 
+l.133   \icon{nakala}{aiNAKALA}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:133: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133   \icon{nakala}{aiNAKALA}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:133: Bad character code (59713).
+<to be read again> 
+                   \relax 
+l.133   \icon{nakala}{aiNAKALA}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:134: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134   \icon{closed-access}{aiClosedAccess}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:134: Bad character code (59714).
+<to be read again> 
+                   \relax 
+l.134   \icon{closed-access}{aiClosedAccess}
+                                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:134: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134   \icon{closed-access}{aiClosedAccess}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:134: Bad character code (59715).
+<to be read again> 
+                   \relax 
+l.134   \icon{closed-access}{aiClosedAccess}
+                                            
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:135: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135   \icon{open-access}{aiOpenAccess}
+                                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:135: Bad character code (59705).
+<to be read again> 
+                   \relax 
+l.135   \icon{open-access}{aiOpenAccess}
+                                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:135: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135   \icon{open-access}{aiOpenAccess}
+                                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:135: Bad character code (59892).
+<to be read again> 
+                   \relax 
+l.135   \icon{open-access}{aiOpenAccess}
+                                        
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+[2]
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:136: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136   \icon{open-data}{aiOpenData}
+                                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:136: Bad character code (59750).
+<to be read again> 
+                   \relax 
+l.136   \icon{open-data}{aiOpenData}
+                                    
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:136: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136   \icon{open-data}{aiOpenData}
+                                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:136: Bad character code (59751).
+<to be read again> 
+                   \relax 
+l.136   \icon{open-data}{aiOpenData}
+                                    
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:137: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137   \icon{open-materials}{aiOpenMaterials}
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:137: Bad character code (59752).
+<to be read again> 
+                   \relax 
+l.137   \icon{open-materials}{aiOpenMaterials}
+                                              
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:137: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137   \icon{open-materials}{aiOpenMaterials}
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:137: Bad character code (59753).
+<to be read again> 
+                   \relax 
+l.137   \icon{open-materials}{aiOpenMaterials}
+                                              
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:138: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138   \icon{openedition}{aiOpenEdition}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:138: Bad character code (59718).
+<to be read again> 
+                   \relax 
+l.138   \icon{openedition}{aiOpenEdition}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:138: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138   \icon{openedition}{aiOpenEdition}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:138: Bad character code (59719).
+<to be read again> 
+                   \relax 
+l.138   \icon{openedition}{aiOpenEdition}
+                                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:139: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139   \icon{orcid}{aiOrcid}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:139: Bad character code (59865).
+<to be read again> 
+                   \relax 
+l.139   \icon{orcid}{aiOrcid}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:139: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139   \icon{orcid}{aiOrcid}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:139: Bad character code (59843).
+<to be read again> 
+                   \relax 
+l.139   \icon{orcid}{aiOrcid}
+                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:140: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140   \icon{osf}{aiOSF}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:140: Bad character code (59887).
+<to be read again> 
+                   \relax 
+l.140   \icon{osf}{aiOSF}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:140: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140   \icon{osf}{aiOSF}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:140: Bad character code (59697).
+<to be read again> 
+                   \relax 
+l.140   \icon{osf}{aiOSF}
+                         
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:141: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141   \icon{overleaf}{aiOverleaf}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:141: Bad character code (59668).
+<to be read again> 
+                   \relax 
+l.141   \icon{overleaf}{aiOverleaf}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:141: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141   \icon{overleaf}{aiOverleaf}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:141: Bad character code (59789).
+<to be read again> 
+                   \relax 
+l.141   \icon{overleaf}{aiOverleaf}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:142: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142   \icon{philpapers}{aiPhilPapers}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:142: Bad character code (59786).
+<to be read again> 
+                   \relax 
+l.142   \icon{philpapers}{aiPhilPapers}
+                                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:142: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142   \icon{philpapers}{aiPhilPapers}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:142: Bad character code (59759).
+<to be read again> 
+                   \relax 
+l.142   \icon{philpapers}{aiPhilPapers}
+                                       
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:143: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143   \icon{piazza}{aiPiazza}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:143: Bad character code (59802).
+<to be read again> 
+                   \relax 
+l.143   \icon{piazza}{aiPiazza}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:143: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143   \icon{piazza}{aiPiazza}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:143: Bad character code (59660).
+<to be read again> 
+                   \relax 
+l.143   \icon{piazza}{aiPiazza}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:144: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144   \icon{preregistered}{aiPreregistered}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:144: Bad character code (59654).
+<to be read again> 
+                   \relax 
+l.144   \icon{preregistered}{aiPreregistered}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:144: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144   \icon{preregistered}{aiPreregistered}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:144: Bad character code (59755).
+<to be read again> 
+                   \relax 
+l.144   \icon{preregistered}{aiPreregistered}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:145: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145   \icon{protocols}{aiProtocols}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:145: Bad character code (59730).
+<to be read again> 
+                   \relax 
+l.145   \icon{protocols}{aiProtocols}
+                                     
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:145: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145   \icon{protocols}{aiProtocols}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:145: Bad character code (59731).
+<to be read again> 
+                   \relax 
+l.145   \icon{protocols}{aiProtocols}
+                                     
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:146: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146   \icon{psyarxiv}{aiPsyArXiv}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:146: Bad character code (59662).
+<to be read again> 
+                   \relax 
+l.146   \icon{psyarxiv}{aiPsyArXiv}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:146: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146   \icon{psyarxiv}{aiPsyArXiv}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:146: Bad character code (59663).
+<to be read again> 
+                   \relax 
+l.146   \icon{psyarxiv}{aiPsyArXiv}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:147: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147   \icon{publons}{aiPublons}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:147: Bad character code (59703).
+<to be read again> 
+                   \relax 
+l.147   \icon{publons}{aiPublons}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:147: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147   \icon{publons}{aiPublons}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:147: Bad character code (59726).
+<to be read again> 
+                   \relax 
+l.147   \icon{publons}{aiPublons}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:148: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148   \icon{pubmed}{aiPubMed}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:148: Bad character code (59807).
+<to be read again> 
+                   \relax 
+l.148   \icon{pubmed}{aiPubMed}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:148: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148   \icon{pubmed}{aiPubMed}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:148: Bad character code (59773).
+<to be read again> 
+                   \relax 
+l.148   \icon{pubmed}{aiPubMed}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:149: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149   \icon{pubpeer}{aiPubPeer}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:149: Bad character code (59682).
+<to be read again> 
+                   \relax 
+l.149   \icon{pubpeer}{aiPubPeer}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:149: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149   \icon{pubpeer}{aiPubPeer}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:149: Bad character code (59683).
+<to be read again> 
+                   \relax 
+l.149   \icon{pubpeer}{aiPubPeer}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:150: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150   \icon{researcherid}{aiResearcherID}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:150: Bad character code (59674).
+<to be read again> 
+                   \relax 
+l.150   \icon{researcherid}{aiResearcherID}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:150: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150   \icon{researcherid}{aiResearcherID}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:150: Bad character code (59740).
+<to be read again> 
+                   \relax 
+l.150   \icon{researcherid}{aiResearcherID}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:151: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151   \icon{researchgate}{aiResearchGate}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:151: Bad character code (59742).
+<to be read again> 
+                   \relax 
+l.151   \icon{researchgate}{aiResearchGate}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:151: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151   \icon{researchgate}{aiResearchGate}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:151: Bad character code (59806).
+<to be read again> 
+                   \relax 
+l.151   \icon{researchgate}{aiResearchGate}
+                                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:152: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152   \icon{scirate}{aiSciRate}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:152: Bad character code (59790).
+<to be read again> 
+                   \relax 
+l.152   \icon{scirate}{aiSciRate}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:152: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152   \icon{scirate}{aiSciRate}
+                                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:152: Bad character code (59805).
+<to be read again> 
+                   \relax 
+l.152   \icon{scirate}{aiSciRate}
+                                 
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:153: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153   \icon{semantic-scholar}{aiSemanticScholar}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:153: Bad character code (59758).
+<to be read again> 
+                   \relax 
+l.153   \icon{semantic-scholar}{aiSemanticScholar}
+                                                  
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:153: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153   \icon{semantic-scholar}{aiSemanticScholar}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:153: Bad character code (59756).
+<to be read again> 
+                   \relax 
+l.153   \icon{semantic-scholar}{aiSemanticScholar}
+                                                  
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:154: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154   \icon{springer}{aiSpringer}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:154: Bad character code (59688).
+<to be read again> 
+                   \relax 
+l.154   \icon{springer}{aiSpringer}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:154: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154   \icon{springer}{aiSpringer}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:154: Bad character code (59803).
+<to be read again> 
+                   \relax 
+l.154   \icon{springer}{aiSpringer}
+                                   
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:155: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155   \icon{ssrn}{aiSSRN}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:155: Bad character code (59670).
+<to be read again> 
+                   \relax 
+l.155   \icon{ssrn}{aiSSRN}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:155: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155   \icon{ssrn}{aiSSRN}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:155: Bad character code (59671).
+<to be read again> 
+                   \relax 
+l.155   \icon{ssrn}{aiSSRN}
+                           
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+[3]
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:156: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156   \icon{stackoverflow}{aiStackOverflow}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:156: Bad character code (59680).
+<to be read again> 
+                   \relax 
+l.156   \icon{stackoverflow}{aiStackOverflow}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:156: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156   \icon{stackoverflow}{aiStackOverflow}
+                                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:156: Bad character code (59681).
+<to be read again> 
+                   \relax 
+l.156   \icon{stackoverflow}{aiStackOverflow}
+                                             
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:157: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157   \icon{zotero}{aiZotero}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:157: Bad character code (59746).
+<to be read again> 
+                   \relax 
+l.157   \icon{zotero}{aiZotero}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:157: LaTeX Error: Encoding scheme `TU' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157   \icon{zotero}{aiZotero}
+                               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/adivekar/workplace/Resume/academicons/academicons.tex:157: Bad character code (59698).
+<to be read again> 
+                   \relax 
+l.157   \icon{zotero}{aiZotero}
+                               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+No file academicons.gls.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
+[4]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 162.
+ (/Users/adivekar/workplace/Resume/academicons/academicons.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+
+
+Package rerunfilecheck Warning: File `academicons.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `academicons.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  5F0141E541B25884B06E8DEC306A974E;160.
+Package rerunfilecheck Info: File `academicons.hd' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+ ) 
+Here is how much of TeX's memory you used:
+ 6332 strings out of 492616
+ 93666 string characters out of 6129482
+ 219100 words of memory out of 5000000
+ 10198 multiletter control sequences out of 15000+600000
+ 11226 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,9n,35p,711b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on /Users/adivekar/workplace/Resume/academicons/academicons.pdf (4 pages, 223307 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
