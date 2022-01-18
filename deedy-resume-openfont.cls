@@ -141,7 +141,7 @@ Updated on
     \end{itemize}\vspace{-\topsep}
 }
 
-\newcommand{\publication}[5]{
+\newcommand{\publication}[6]{
     \justifying 
     \setstretch{\contentlinespacing}  %% Ref http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907092
     \fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{\contentfontsize}{\contentfontsize}\selectfont{#1. (#2).}
@@ -150,6 +150,10 @@ Updated on
     %% Ref: https://stackoverflow.com/a/7314951
     \ifthenelse { \equal {#5} {} }  %if URL not specified, return blank
     {}   % if #1 == blank
-    {\url{#5}}   % else (not blank)
+    {
+        \ifthenelse { \equal {#6} {} }
+        {\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{\contentfontsize}{\contentfontsize}\selectfont{#5.}}
+        {\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{\contentfontsize}{\contentfontsize}\selectfont{\href{#5}{#6}}}
+    }   % else (not blank)
     \normalfont
 }
