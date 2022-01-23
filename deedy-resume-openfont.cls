@@ -50,7 +50,7 @@ Updated on
 \newcommand{\namesection}[3]{
 	\centering{
 		\sffamily
-		\fontspec[Path = fonts/lato/]{Lato-Hai}\fontsize{26pt}{10cm}\selectfont #1 
+		\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{22pt}{10cm}\selectfont #1 
 		\fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2
 	} \\
 	\vspace{10pt}
@@ -62,7 +62,7 @@ Updated on
 
 % Headings command
 \titleformat{\section}{\color{headings}
-\scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{15pt}{22pt}\selectfont \raggedright\uppercase}{} {0em}{}
+\scshape\fontspec[Path = fonts/lato/]{Lato-Lig}\fontsize{17pt}{22pt}\selectfont \raggedright}{} {0em}{}
 
 % Subeadings command
 \titleformat{\subsection}{\color{subheadings}
@@ -85,13 +85,13 @@ Updated on
 
 \newcommand{\runsubsection}[1]{
     \color{subheadings}
-    \fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{12pt}{12pt}\selectfont\uppercase {#1} 
+    \fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{13pt}{13pt}\selectfont {#1} 
     \normalfont
     \subsectionsep 
 }
 
 % Descriptors command
-\newcommand{\descript}[1]{\color{subheadings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{12pt}{14pt}\selectfont {| #1} \normalfont}
+\newcommand{\descript}[1]{\color{subheadings}\raggedright\scshape\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{11pt}{11pt}\selectfont {#1} \normalfont}
 
 % Location command
 \newcommand{\location}[1]{

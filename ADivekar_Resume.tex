@@ -112,70 +112,74 @@
 % \huge\color{subheadings}\custombold{Professional student}
 % \end{center}
 
+\runsection{\faEducation}{Education}
+
+\runsubsection{The University of Texas at Austin}\descript{}\\
+\descript{Master of Science in Computer Science (GPA: 4.0)}
+\runsingleline{| {} Fall 2020 - Spring 2023 (expected)} \\
+\subsubsectionsep
+\begin{tightemize}
+    \item CS383C - Advanced Linear Algebra for Computing
+    \item CS394D - Deep Learning
+    \item CS391L - Machine Learning
+    \item CS388 - Natural Language Processing
+\end{tightemize}
+\sectionsep
+\subsectionsep
+
+\runsubsection{Veermata Jijabai Technological Institute}\descript{}\\
+\descript{Bachelor of Technology in Information Technology (GPA: 8.74 / 10)} \runsingleline{| {} 2013 - 2017} \\
+\subsubsectionsep
+Undergraduate thesis: Machine Learning for Anomaly-based Network Intrusion Detection, advised by Dr. Mahesh Shirole.
+\subsectionsep
+
 \runsection{\faExperience}{Experience}
 
-\runsubsection{Amazon}
-\descript{Machine Learning Scientist - 2}
-\runsingleline{(Oct 2020 \textendash{} Present, India)}
+\runsubsection{Amazon}\descript{}
+
+\descript{Applied Scientist - 2}
+\runsingleline{| {} Oct 2020 \textendash{} Present, India}
 \begin{tightemize}
-    \item Developed AutoML framework ``DRiP'' to iteratively maximize AutoML performance while restricted by a user-defined cost budget. Paper accepted at Amazon ML Conference 2021 (33\% acceptance-rate out of $\sim$750 submissions).
-    \item Proposed ``GROK'' score to rank the quality of text augmented by Machine-translation and Abstractive Summarization models (BART, T5, PEGASUS). On product-classification tasks, GROK requires $\sim$70\% fewer samples to achieve performance of Beam-Search and rule-based augmentation.
+    \item Developed AutoML framework ``DRiP'' to iteratively maximize AutoML performance while restricted by a user-defined cost budget. Paper accepted at Amazon Machine Learning Conference 2021 ($\sim$750 submissions, acceptance-rate 33\%).
+    \item Proposed ``GROK'' ranking metric to judge the quality of text augmented by Machine-translation and Abstractive Summarization models (BART, T5, PEGASUS). On product-classification tasks, GROK required $\sim$70\% fewer augmented samples to achieve performance of top-beam and rule-based augmentations (Synonym Replacement, Random Deletion, etc).
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Amazon}
-\descript{Machine Learning Scientist - 1}
-\runsingleline{(Oct 2019 \textendash{} Sep 2020, India)}
+\descript{Research Engineer - 1}
+\runsingleline{| {} Oct 2019 \textendash{} Sep 2020, India}
 \begin{tightemize}
-    \item Fine-tuned and deployed AmaBERT (BERT pretrained on Amazon product text) to classify products across 10,000+ browsable categories. Fixed categorization of $\sim$8.5 MM Amazon.in products, improving categorization precision from 62\% to 90\%. Built automatic model re-training workflow using Apache Spark and HuggingFace. 
-    \item Developed low-latency FastText Docker containers to predict UNSPSC codes. Predicted $\sim$500 MM products on Amazon.com at 95\% precision \& 95\% recall.
+    \item Fine-tuned and deployed AmaBERT (BERT pretrained on Amazon product text) to classify products across 10,000+ browsable categories. Fixed $\sim$8.5 MM products, improving categorization precision from 62\% to 90\%. Built automatic model re-training workflow using Apache Spark and HuggingFace. 
+    \item Developed low-latency FastText Docker containers to predict UNSPSC codes. Used to correct UNSPSC for $\sim$100 MM products on amazon.com at 95\% precision \& 95\% recall.
     % \item Designed and implemented data-processing workflow-steps for AutoML platform ``Entity Prediction Service''. Contributed $\sim$160K lines of production-grade code.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Amazon}
-\descript{Software Development Engineer - 1} \runsingleline{(Jul 2017 \textendash{} Sep 2019, India)}
+\descript{Software Development Engineer - 1} \runsingleline{| {} Jul 2017 \textendash{} Sep 2019, India}
 \begin{tightemize}
     \item Built purchase-authentication used by all Kindle devices in Europe. Launched secure Kindle-to-mobile \mbox{MultiFactor} authentication using SMS \& Email notifications, CSRF tokens and server-side caching.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{VJTI Mumbai}
-\descript{Research Assistant} \runsingleline{(Apr \textendash{} Jun 2017, India)}
+\runsubsection{Veermata Jijabai Technological Institute}\descript{} \\
+\descript{Research Assistant} \runsingleline{| {} Apr 2017 \textendash{} Jun 2017, India}
 \begin{tightemize}
     \item Summer research at Dr. Mahesh Shirole's lab. Identified class-imbalance vulnerabilities in popular network intrusion dataset and proposed new dataset to handle underrepresented attacks. Paper accepted for Oral Presentation at IEEE ICCCS 2018.
 \end{tightemize}
 
-\runsection{\faEducation}{Education}
+\runsection{\faPublications}{Publications}
 
-\runsubsection{The University of Texas at Austin}
-\descript{Master of Science in Computer Science} \\
-\runsingleline{2020 - 2023 (Expected) \textbullet{} GPA: 4.0} \\
-Graduate coursework:
-\begin{tightemize}
-    \item CS388 Natural Language Processing: A (112\%)
-    \item CS391L Machine Learning: A (93\%)
-    \item CS394D Deep Learning: A (105\%)
-    \item CS383C Advanced Linear Algebra for Computing: A (97\%)
-\end{tightemize}
-\sectionsep
-
-\runsubsection{VJTI Mumbai}
-\descript{Bachelor of Technology in Information Technology} \\
-\runsingleline{2013 - 2017 \textbullet{} GPA: 8.74 (out of 10)} \\
-Undergraduate thesis: Machine Learning for Anomaly-based Network Intrusion Detection, advised by Dr. Mahesh Shirole.
+All publication venues (including industry) follow a double-blind peer-review process.
 \subsectionsep
 
-\runsection{\faPublications}{Publications}
-\runsubsection{Conference publications} 
+\runsubsection{Conferences} 
 \begin{tightemize}
     \item \publication{\underline{Abhishek Divekar}, Mudit Agarwal and Nikhil Rasiwasia}{2021}{Unsupervised text augmentation using Pretrained Paraphrase  Generation}{(Preprint)}{}{}
-    \item \publication{\underline{Abhishek Divekar}*, Gaurav Manchanda*, Prit Raj, Abhishek Das, Karan Tanwar, Akshay Jagatap, Vinayak Puranik, Jagannathan Srinivasan, Ramakrishna Nalam and Nikhil Rasiwasia}{2021}{Squeezing the last DRiP: AutoML for cost-constrained Product classification}{Proceedings of the 9th Annual conference of Amazon Machine Learning (AMLC). Conference acceptance-rate: 33\% out of $\sim$750 submissions}{}{}
+    \item \publication{\underline{Abhishek Divekar}*, Gaurav Manchanda*, Prit Raj, Abhishek Das, Karan Tanwar, Akshay Jagatap, Vinayak Puranik, Jagannathan Srinivasan, Ramakrishna Nalam and Nikhil Rasiwasia}{2021}{Squeezing the last DRiP: AutoML for cost-constrained Product classification}{Proceedings of the 9th Annual conference of Amazon Machine Learning (AMLC). Conference acceptance-rate of 33\% out of $\sim$750 submissions}{}{}
     \item \publication{\underline{Abhishek Divekar}, Meet Parekh, Vaibhav Savla, Rudra Mishra and Mahesh Shirole}{2018, Oral Presentation}{Benchmarking datasets for Anomaly-based Network Intrusion Detection: KDD CUP 99 alternatives}{Proceedings of the 3rd IEEE International Conference on Computer and Communication Systems (IEEE ICCCS)}{https://arxiv.org/pdf/1811.05372.pdf}{arXiv:1811.05372}
 \end{tightemize}
 
 \pagebreak
-\runsubsection{Workshop publications}
+\runsubsection{Workshops}
 \begin{tightemize}
     \item \publication{\underline{Abhishek Divekar}, Vinayak Puranik, Zhenyu Shi, Jinmiao Fu and Nikhil Rasiwasia}{2021, Oral Presentation}{LEAP: LEAf node Predictions in the wild}{2nd Amazon Selection and Catalog Services Applied Science Workshop}{}{}
     \item \publication{Andrew Borthwick, \underline{Abhishek Divekar}, Nick Erickson, Fayaz Ahmed Farooque, Oleg Kim, Nikhil Rasiwasia, Ethan Xu}{2021, Oral Presentation}{CPP MultiModal AutoML Corpus and Benchmark}{Workshop on MultiModal Learning and Fusion, Amazon Machine Learning Conference 2021}{}{}
